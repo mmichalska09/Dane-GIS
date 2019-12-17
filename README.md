@@ -15,3 +15,6 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
      - _url:_ [sip.poznan.pl](sip_poznan.pl)
      - _opis:_ Szeroka baza danych: mapy, modele 3D budynków w standardzie CityGML, usługi mapowe OGC dające dostęp do licznych warstw (granice, plany, ortofotomapy etc.) - również jako WFS co umożliwia zapisanie ich do obróbki lokalnej. 
      
+3. **Mapy zagrożenia powodziowego**
+     - _url:_ [mapy.isok.gov.pl]
+     - _opis:_ Hydroportal publikujący mapy zagrożenia powodziowego i mapy ryzyka powodziowego w formacie PDF. 
